@@ -32,7 +32,7 @@ N/A
 >   A .css file that includes one class with styles for your header (make it in your favorite color).
 >   A test.md file with the text "This file should be ignored by git".
 
-### Make sure that the last file is actually ignored by git and is not present in your GitHub repository.
+> Make sure that the last file is actually ignored by git and is not present in your GitHub repository.
 
 
 
